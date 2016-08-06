@@ -1,4 +1,4 @@
-(functon () {
+(function () {
     angular
         .module('root')
         .config(['$routeProvider', RootRouter]);
@@ -24,3 +24,4 @@
         });
     }
 })();
+//a
