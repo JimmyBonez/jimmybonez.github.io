@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jquery.uniform": "^4.0.1"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "zero",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
